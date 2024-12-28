@@ -1,0 +1,23 @@
+.Infobox{
+    text-align: center;
+}
+.card-container{
+    display:flex;
+    justify-content: center;
+}
+p{
+    font-weight: bold;
+    color:black;
+}
+h2{
+    color:rgba(0, 0, 255, 0.797);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    color:black;
+    text-decoration: underline;
+    text-decoration-color:rgba(0, 0, 255, 0.612);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
